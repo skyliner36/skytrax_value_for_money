@@ -40,5 +40,5 @@ o	Tools: Use the new 6-month data to:
 o	Objective: Improve model accuracy and relevance to current trends, providing Skysafe Airlines with a dynamic, data-driven approach to improving passenger satisfaction.
 10.  Data Source
 -	Skytrax User Reviews Dataset (August 2nd, 2015)
-Link: skytrax-reviews-dataset/data at master · quankiquanki/skytrax-reviews-dataset (github.com)
+-	Link: skytrax-reviews-dataset/data at master · quankiquanki/skytrax-reviews-dataset (github.com)
 
